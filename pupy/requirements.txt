@@ -44,7 +44,7 @@ msgpack==0.6.2
 mss==4.0.3
 netaddr==0.8.0
 netifaces==0.10.9
-paramiko==2.0.2
+paramiko==2.0.9
 pathlib2==2.3.5
 pathmatch==0.2.2
 pefile==2019.4.18
