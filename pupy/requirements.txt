@@ -69,7 +69,7 @@ pyuv==1.4.0
 PyYAML==5.4.1
 regex==2020.11.13
 requests==2.25.1
-rsa==4.5
+rsa==4.7
 scandir==1.10.0
 scapy==2.4.4
 SecretStorage==2.3.1
