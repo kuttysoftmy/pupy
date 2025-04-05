@@ -32,7 +32,7 @@ importlib-metadata==2.1.1
 importlib-resources==3.3.1
 ipaddress==1.0.23
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==3.1.6
 keyboard==0.13.4
 ldap3==2.8.1
 ldapdomaindump==0.9.3
