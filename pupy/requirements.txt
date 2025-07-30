@@ -14,7 +14,7 @@ defusedxml==0.6.0
 dnslib==0.9.14
 dnspython==1.16.0
 dukpy==0.2.3
-ecdsa==0.13
+ecdsa==0.19.1
 enum34==1.1.10
 filemagic==1.6
 flake8==3.8.4
